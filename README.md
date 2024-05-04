@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage. 
+Application web et mobile pour covoiturage. 
 
 ## Getting Started
 
