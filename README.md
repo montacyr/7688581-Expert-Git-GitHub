@@ -1,6 +1,6 @@
 # Open Transport
 
-Application web pour covoiturage avec Test conflit. 
+Application web et mobile pour covoiturage avec Test conflit. 
 
 
 ## Getting Started
